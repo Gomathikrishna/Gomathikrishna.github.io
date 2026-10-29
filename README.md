@@ -1,12 +1,9 @@
-# Goms Tech Talks Website
-A responsive, static GitHub Pages starter website.
+# Goms Tech Talks — Animated Version 3
 
-## Publish
-1. Create a **public** GitHub repository named `Gomathikrishna.github.io` under the `Gomathikrishna` account.
-2. Upload `index.html`, `style.css`, and `script.js` to its root using **Add file > Upload files > Commit changes**.
-3. Open repository **Settings > Pages**. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and `/(root)`, then save.
-4. Visit https://gomathikrishna.github.io/ after deployment succeeds.
+Upload **all files and folders** to the root of `Gomathikrishna.github.io`. Preserve `assets/` and `posts/`.
 
-## Customize
-Change titles, bio, and links in `index.html`; styling in `style.css`.
-The starter is static and requires no Jekyll or external build tools. Google Fonts requires an internet connection.
+Includes scroll reveal, floating hero, responsive five-book carousel (arrows, dots, keyboard and swipe), and reduced-motion accessibility.
+
+The book covers are **illustrated placeholder covers**, not publisher-provided photographs. Replace them with verified official cover images later if desired.
+
+GitHub Pages Settings: deploy from `main` / `(root)`.
